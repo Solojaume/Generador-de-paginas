@@ -24,7 +24,10 @@
     height: 90%;
 }
 
-#h1,#h2,#h3,span{
+#text{
+    font-size: 25px;
+}
+.selecionable{
     border: 1px solid #333;
-    font-size: 35px;
+    font-size: 25px;
 }
